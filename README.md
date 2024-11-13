@@ -1,7 +1,7 @@
 # EXNO3AI
 Implementation of Minimax Search
 ### DATE: 10.09.2024                                                                            
-### REGISTER NUMBER : 212222040173
+### REGISTER NUMBER : 2122221060180
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
